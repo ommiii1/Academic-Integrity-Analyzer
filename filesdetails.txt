@@ -1,0 +1,7 @@
+In sample5.pdf 
+Abstract part and result part is stitched from another research paper.
+
+Hence it is labelling it as "Author B" while "Author A" is the original writer of this sample5.pdf
+
+ and in sample6.pdf 
+introduction and bert part is stitched
